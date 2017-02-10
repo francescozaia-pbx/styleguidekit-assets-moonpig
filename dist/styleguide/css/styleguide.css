@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*
 * NOTES:
-* 1) These styles are specific to the moonpig instance of Pattern Lab and should not be modified.
+* 1) These styles are specific to the Moonpig instance of Pattern Lab and should not be modified.
 * All project styles should be modified in /source/css/
 *
 * 2) Any !important declarations are to prevent brand styles from overriding
@@ -1064,7 +1064,7 @@
   font-size: 100%;
 }
 .sg-annotations-list-title::after {
-  content: "—";
+  content: "ÔÇö";
 }
 
 #sg-comments-container {

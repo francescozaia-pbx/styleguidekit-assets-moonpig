@@ -2,7 +2,7 @@
 
 # Custom StyleguideKit for Moonpig
 
-These static assets control the look, feel, and functionality of the front-end of Pattern Lab Node for myLT.
+These static assets control the look, feel, and functionality of the front-end of Pattern Lab Node for Moonpig.
 
 ## Installation
 
